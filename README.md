@@ -1,4 +1,4 @@
-# Greeting App – Personalized Welcome Screen
+# Greeting App
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -85,4 +85,4 @@ MainActivity                    WelcomeActivity
 
 ## License
 
-MIT © [Priyanshi Panja](https://github.com/priyanshipanja)
+© [Priyanshi Panja](https://github.com/priyanshipanja)
