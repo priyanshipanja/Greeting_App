@@ -1,0 +1,22 @@
+
+# IntelliJ extras
+/.idea/
+*.iml
+
+# Gradle
+.gradle/
+/build/
+/app/build/
+
+# Local config
+/local.properties
+local.properties
+
+# Android
+/captures
+.externalNativeBuild
+.cxx
+
+# OS
+.DS_Store
+Thumbs.db
